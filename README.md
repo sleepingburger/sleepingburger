@@ -1,6 +1,10 @@
 # 👋 Hi, I’m Aj Penos (@sleepingburger)
 ### 👀 Currently interested in latest Web and Game development tools and technologies as well as 3D graphics and design.
 ---
+## Play my latest project! 🕹🎮
+### 👾 [SHMUP-Space Impacto](https://sleepingburger.github.io/Shmup/)
+- made using pico-8
+---
 ### 🌱 I’m currently learning JavaScript or JS libraries and frameworks including.
   - React JS
   - Next JS
