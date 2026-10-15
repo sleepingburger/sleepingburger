@@ -15,7 +15,7 @@ I'm a software engineer who loves building things that are both functional and f
 
 ### 🕹️ Featured Projects
 
-#### 🌐 [MAIN 3D Portfolio](https://sleepingburger.vercel.app)
+#### 🌐 [MAIN 3D Portfolio]()
 **Cozy 3D Developer Portfolio Room** An immersive, interactive **3D** web experience built with Three.js and GSAP showcasing my skills, background, and projects. Users can navigate a custom-designed, claymorphic developer bedroom, toggle day/night modes with soft baked textures, interact with social links, and open cozy resume modals. Plus more features coming soon!.
 ![Logo](4.jpg)
 
